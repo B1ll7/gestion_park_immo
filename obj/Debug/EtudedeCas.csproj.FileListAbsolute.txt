@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\bin\Debug\EtudedeCas.exe.config
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\bin\Debug\EtudedeCas.exe
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\bin\Debug\EtudedeCas.pdb
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\obj\Debug\EtudedeCas.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\obj\Debug\EtudedeCas.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\obj\Debug\EtudedeCas.exe
+C:\Users\Moi\source\repos\Evaluation\EtudedeCas\obj\Debug\EtudedeCas.pdb
